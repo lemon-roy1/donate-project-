@@ -53,11 +53,17 @@
     padding: 10px;
     background-color: #57a4a4;
 }
+.box img{
+    width: 20%;
+}
 .box1{
     width: 50%;
     padding: 10px;
     margin: 10px;
     background-color: rgba(151, 187, 79);
+}
+.box1 img{
+    width: 20%;
 }
 .box2{
     width: 50%;
